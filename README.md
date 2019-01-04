@@ -4,5 +4,5 @@
 * Express
 * mongdb+mongoose
 * ejs
-* passwort
+* passport
 * Express-session
